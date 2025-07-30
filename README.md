@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/dba9c458-4083-4fed-abb2-2fe56570d88f" width="1000" height="300">
+  <img src="https://github.com/user-attachments/assets/dba9c458-4083-4fed-abb2-2fe56570d88f" width="800" height="300">
 </div>
 
 # Hi 👋 My name is Ivan
@@ -10,7 +10,7 @@
 Hi there! I'm Ivan, a Data Analyst seeking an internship or junior position. Feel free to reach out!
 
 * 🌍 I'm based in Ekaterinburg
-* ✉️ You can contact me at [nastyadelonge554@gmail.com](mailto:birlurnou@gmail.com) or on [my telegram](https://t.me/birlurnou)
+* ✉️ You can contact me at [birlurnou@gmail.com](mailto:birlurnou@gmail.com) or on [my telegram](https://t.me/birlurnou)
 
 >🤝 **Let's Connect:**  
 >I'm actively seeking remote internship opportunities in data analysis. Open to collaborating on exciting data projects. When I'm not busy, you can find me reading psychological books or learning new languages.
