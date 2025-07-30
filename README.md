@@ -10,21 +10,10 @@
 Hi there! I'm Ivan, a Data Analyst seeking an internship or junior position. Feel free to reach out!
 
 * 🌍 I'm based in Ekaterinburg
->* 🖥️ See my portfolio at [My CV](http://cv.hexlet.io/resumes/4087)
 * ✉️ You can contact me at [nastyadelonge554@gmail.com](mailto:birlurnou@gmail.com) or on [my telegram](https://t.me/birlurnou)
-
->👨‍🎓 **Education:**
-
->* Data Analytics, Hexlet (2024)
->* Information Systems and Technologies, Bachelor, Rostov Technical State University (2017-2021)
-
->🔭 **Currently Exploring:**  
->- Data Analysis with SQL, Google Sheets, Python  
->- Visualization with Apache SuperSet, Python
 
 >🤝 **Let's Connect:**  
 >I'm actively seeking remote internship opportunities in data analysis. Open to collaborating on exciting data projects. When I'm not busy, you can find me reading psychological books or learning new languages.
-
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=anaconda,git,github,matlab,postgres,py,vscode,)](https://skillicons.dev)
