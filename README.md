@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/137138ba-546c-4b24-b3e5-e365c939ba83" width="1000" height="300">
-</div>
 # Hi 👋 My name is Ivan
 ## Data Analyst
 
