@@ -21,17 +21,14 @@ Hi there! I'm Ivan, a Data Analyst.
 - 📈 **SuperSet:** Creation of various types of graphs and charts, Dashboard creation, Setting up interactive filters  
 - 🐍 **Python:** Pandas, Numpy, matplotlib, plotly, seaborn
 - **DBeaver:** Database connection, SQL querries
-<div align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="300" height="200">
-</div>
 
 ### Socials
 
 <p align="left">
-  <a href="https://www.github.com/AnastasiaSep" target="_blank" rel="noreferrer">
+  <a href="https://www.github.com/birlurnou" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a>
-  <a href="https://t.me/horosho_budet" target="_blank" rel="noreferrer">
+  <a href="https://t.me/birlurnou" target="_blank" rel="noreferrer">
     <img src="https://c0.klipartz.com/pngpicture/82/892/gratis-png-iphone-telegrama-iconos-de-computadora-android-telegrama.png" width="32" height="32" />
   </a>
 
