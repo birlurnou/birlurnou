@@ -1,19 +1,10 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/dba9c458-4083-4fed-abb2-2fe56570d88f" width="400" height="300">
-</div>
-
 # Hi 👋 My name is Ivan
 ## Data Analyst
 
-![Animated GIF](https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif)
-
-Hi there! I'm Ivan, a Data Analyst seeking an internship or junior position. Feel free to reach out!
+Hi there! I'm Ivan, a Data Analyst.
 
 * 🌍 I'm based in Ekaterinburg
 * ✉️ You can contact me at [birlurnou@gmail.com](mailto:birlurnou@gmail.com) or on [my telegram](https://t.me/birlurnou)
-
->🤝 **Let's Connect:**  
->I'm actively seeking remote internship opportunities in data analysis. Open to collaborating on exciting data projects. When I'm not busy, you can find me reading psychological books or learning new languages.
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=anaconda,git,github,matlab,postgres,py,vscode,)](https://skillicons.dev)
