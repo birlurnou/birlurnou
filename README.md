@@ -2,28 +2,28 @@
   <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="1000" height="300">
 </div>
 
-# Hi 👋 My name is Anastasia
+# Hi 👋 My name is Ivan
 ## Data Analyst
 
 ![Animated GIF](https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif)
 
-Hi there! I'm Anastasia, a Data Analyst seeking an internship or junior position. Feel free to reach out!
+Hi there! I'm Ivan, a Data Analyst seeking an internship or junior position. Feel free to reach out!
 
-* 🌍 I'm based in Vietnam 
-* 🖥️ See my portfolio at [My CV](http://cv.hexlet.io/resumes/4087)
-* ✉️ You can contact me at [nastyadelonge554@gmail.com](mailto:nastyadelonge554@gmail.com) or on [my telegram](https://t.me/horosho_budet)
+* 🌍 I'm based in Ekaterinburg
+>* 🖥️ See my portfolio at [My CV](http://cv.hexlet.io/resumes/4087)
+* ✉️ You can contact me at [nastyadelonge554@gmail.com](mailto:birlurnou@gmail.com) or on [my telegram](https://t.me/birlurnou)
 
-👨‍🎓 **Education:**
+>👨‍🎓 **Education:**
 
-* Data Analytics, Hexlet (2024)
-* Information Systems and Technologies, Bachelor, Rostov Technical State University (2017-2021)
+>* Data Analytics, Hexlet (2024)
+>* Information Systems and Technologies, Bachelor, Rostov Technical State University (2017-2021)
 
-🔭 **Currently Exploring:**  
-- Data Analysis with SQL, Google Sheets, Python  
-- Visualization with Apache SuperSet, Python
+>🔭 **Currently Exploring:**  
+>- Data Analysis with SQL, Google Sheets, Python  
+>- Visualization with Apache SuperSet, Python
 
-🤝 **Let's Connect:**  
-I'm actively seeking remote internship opportunities in data analysis. Open to collaborating on exciting data projects. When I'm not busy, you can find me reading psychological books or learning new languages.
+>🤝 **Let's Connect:**  
+>I'm actively seeking remote internship opportunities in data analysis. Open to collaborating on exciting data projects. When I'm not busy, you can find me reading psychological books or learning new languages.
 
 
 ### Skills
